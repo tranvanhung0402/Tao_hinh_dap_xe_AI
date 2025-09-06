@@ -1,0 +1,5 @@
+{
+  "name": "Tạo hình đạp xe AI - Hội xe đạp thể thao Biên Hòa",
+  "description": "An application that allows users to create a new scene for their character and bicycle. The character and bicycle retain their original appearance, placed within a newly generated background based on the user's description.",
+  "requestFramePermissions": []
+}
